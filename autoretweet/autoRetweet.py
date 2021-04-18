@@ -1,3 +1,9 @@
+######################################################
+# Title: Auto retweet from particular handles or hashtags
+# File: generateInsta.py
+# Author: Suhas Adhav
+# Date: 18 April 2021
+######################################################
 import tweepy
 import settings
 import random
