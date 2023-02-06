@@ -18,7 +18,7 @@ Run: python generateInsta.py "outputfile" "Text to Print on the background image
 
 TODO: Background Image size is hardcoded(1080x1080), need to parameterize it
 
-**2. azure-scaler:** This automation script can be used to start/stop Azure VM, AKS clusters using repo file as given on azure-scaler/env.yaml
+**3. azure-scaler:** This automation script can be used to start/stop Azure VM, AKS clusters using repo file as given on azure-scaler/env.yaml
 
 Run: python envscaler.py --env ENV --action ACTION --repoFile env.yaml
 
